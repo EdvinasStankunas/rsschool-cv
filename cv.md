@@ -1,7 +1,7 @@
 # Edvinas Stankūnas
 **Front-end developer in training**
 
-**edvinass711@gmail.com** 
+edvinass711@gmail.com 
 
 ### Summary
 
